@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_margin="1dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/root"
+        android:layout_gravity="bottom"
+        >
+        <ImageView
+            android:id="@+id/iv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_margin="1dp"
+            android:scaleType="centerCrop"
+            android:layout_weight="1" />
+        <TextView
+            android:textColor="@color/textColor"
+            android:id="@+id/tr"
+            android:background="@drawable/alphatextranktopright"
+            android:paddingVertical="2dp"
+            android:paddingHorizontal="8dp"
+            android:layout_margin="5dp"
+            android:textStyle="bold|italic"
+            android:layout_width="wrap_content"
+            android:layout_height="16dp"
+            android:layout_gravity="top|right"
+            android:textSize="10dp"/>
+        <TextView
+            android:textColor="@color/textColor"
+            android:id="@+id/time"
+            android:layout_margin="5dp"
+            android:textStyle="bold|italic"
+            android:background="@drawable/alphatextranktopright"
+            android:paddingHorizontal="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:textSize="10dp"/>
+    </FrameLayout>
+</FrameLayout>

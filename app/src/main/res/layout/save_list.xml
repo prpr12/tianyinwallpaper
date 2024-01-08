@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:textColor="@color/textColor"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="10dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="列表"/>
+        <View
+            android:layout_marginHorizontal="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#efeded"
+            />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_marginTop="7dp"
+            android:layout_marginHorizontal="10dp"
+            android:id="@+id/rv"
+            android:layout_width="match_parent"
+            android:layout_height="250dp">
+        </androidx.recyclerview.widget.RecyclerView>
+
+        <View
+            android:layout_marginTop="7dp"
+            android:layout_marginHorizontal="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#efeded"
+            />
+
+        <TextView
+            android:textColor="@color/textColor"
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginTop="20dp"
+            android:id="@+id/btn0"
+            android:gravity="center"
+            android:layout_width="120dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/edit_background"
+            android:text=""/>
+
+        <TextView
+            android:textColor="@color/textColor"
+            android:layout_marginHorizontal="10dp"
+            android:id="@+id/btn1"
+            android:gravity="center"
+            android:layout_width="120dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/edit_background"
+            android:text=""/>
+
+        <TextView
+            android:textColor="@color/textColor"
+            android:layout_marginHorizontal="10dp"
+            android:id="@+id/btn2"
+            android:gravity="center"
+            android:layout_width="120dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/edit_background"
+            android:text=""/>
+
+    </LinearLayout>
+</ScrollView>

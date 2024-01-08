@@ -1,0 +1,31 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/zeaze/Desktop/seer/TianYinWallpaper/app/src/main/res/drawable/alphatextranktopright.xml" value="0.2985" />
+        <entry key="..\:/zeaze/Desktop/seer/TianYinWallpaper/app/src/main/res/layout/about_fragment.xml" value="0.1875" />
+        <entry key="..\:/zeaze/Desktop/seer/TianYinWallpaper/app/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/zeaze/Desktop/seer/TianYinWallpaper/app/src/main/res/layout/adapter_save.xml" value="0.1875" />
+        <entry key="..\:/zeaze/Desktop/seer/TianYinWallpaper/app/src/main/res/layout/adapter_wallpaper.xml" value="0.358695652173913" />
+        <entry key="..\:/zeaze/Desktop/seer/TianYinWallpaper/app/src/main/res/layout/main_edit.xml" value="0.18333333333333332" />
+        <entry key="..\:/zeaze/Desktop/seer/TianYinWallpaper/app/src/main/res/layout/main_fragment.xml" value="0.1875" />
+        <entry key="..\:/zeaze/Desktop/seer/TianYinWallpaper/app/src/main/res/layout/main_wallpaper_setting.xml" value="0.286231884057971" />
+        <entry key="..\:/zeaze/Desktop/seer/TianYinWallpaper/app/src/main/res/layout/rank_edit.xml" value="0.18333333333333332" />
+        <entry key="..\:/zeaze/Desktop/seer/TianYinWallpaper/app/src/main/res/layout/save_list.xml" value="0.1875" />
+        <entry key="..\:/zeaze/Desktop/seer/TianYinWallpaper/app/src/main/res/layout/subscribe_fragment.xml" value="0.1875" />
+        <entry key="..\:/zeaze/Desktop/seer/TianYinWallpaper/app/src/main/res/layout/subscribe_item.xml" value="0.358695652173913" />
+        <entry key="..\:/zeaze/Desktop/seer/TianYinWallpaper/app/src/main/res/layout/subscribe_text.xml" value="0.18802083333333333" />
+        <entry key="..\:/zeaze/Desktop/seer/TianYinWallpaper/app/src/main/res/layout/textview.xml" value="0.1875" />
+        <entry key="..\:/zeaze/Desktop/seer/TianYinWallpaper/app/src/main/res/layout/wallpaper_item.xml" value="0.1875" />
+        <entry key="..\:/zeaze/Desktop/seer/TianYinWallpaper/app/src/main/res/layout/wallpaper_se_time.xml" value="0.1875" />
+        <entry key="..\:/zeaze/Desktop/seer/TianYinWallpaper/app/src/main/res/xml/tianyin_wallpaper.xml" value="0.1875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
